@@ -4,12 +4,8 @@ import styled from '@emotion/styled'
 const Container = styled.div({
   borderTop: 'solid 2px #ddd',
   cursor: 'pointer',
-  padding: 40,
-  transition: '.3s',
-
-  ':hover': {
-    background: '#fafafa'
-  }
+  padding: '40px 0',
+  transition: '.3s'
 })
 
 const Header = styled.header({
