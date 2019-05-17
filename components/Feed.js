@@ -10,6 +10,7 @@ const LoadMore = styled.button({
   border: 'solid 2px #c3367c',
   borderRadius: 5,
   color: '#fff',
+  cursor: 'pointer',
   display: 'block',
   fontFamily: 'Menlo',
   fontSize: '16px',
