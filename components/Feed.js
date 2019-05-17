@@ -1,13 +1,17 @@
 import styled from '@emotion/styled'
 import Commit from './Commit'
 
+const Container = styled.div({
+  paddingTop: 30
+})
+
 function Feed() {
   return (
-    <div>
+    <Container>
       <Commit />
       <Commit />
       <Commit />
-    </div>
+    </Container>
   )
 }
 

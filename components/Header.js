@@ -2,11 +2,10 @@ import styled from '@emotion/styled'
 import '@fortawesome/fontawesome-free/js/all'
 
 const Container = styled.header({
-  borderBottom: 'solid 2px #777',
   display: 'flex',
   alignItems: 'center',
   justifyContent: 'space-between',
-  paddingBottom: 30
+  padding: '30px 0'
 })
 
 const LogoContainer = styled.h1({
