@@ -8,7 +8,7 @@ const App = styled.div({
   padding: 20,
   fontFamily: 'Menlo',
   margin: '0 auto',
-  maxWidth: 1100,
+  maxWidth: 1200,
   width: '100%'
 })
 
