@@ -1,4 +1,5 @@
 import styled from '@emotion/styled'
+import '@fortawesome/fontawesome-free/js/all'
 
 const Container = styled.header({
   borderBottom: 'solid 2px #777',
@@ -19,10 +20,17 @@ const Logo = styled.a({
 
 const GitHubButton = styled.a({
   background: '#333',
+  border: 'solid 2px #333',
   borderRadius: 5,
   color: '#fff',
-  padding: '20px 30px',
-  textDecoration: 'none'
+  padding: '15px 20px',
+  textDecoration: 'none',
+  transition: '.3s',
+
+  ':hover': {
+    background: '#fff',
+    color: '#333'
+  }
 })
 
 function Header() {
@@ -31,7 +39,10 @@ function Header() {
       <LogoContainer>
         <Logo href="/">todays.codes</Logo>
       </LogoContainer>
-      <GitHubButton href="#">Share your commit</GitHubButton>
+      <GitHubButton href="#">
+        <i class="fab fa-github fa-lg" style={{ marginRight: 15 }} />
+        Share your commit
+      </GitHubButton>
     </Container>
   )
 }
