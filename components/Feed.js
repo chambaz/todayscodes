@@ -33,7 +33,7 @@ function Feed() {
       <Commit />
 
       <LoadMore>
-        <i class="fas fa-plus" style={{ marginRight: 15 }} />
+        <i className="fas fa-plus" style={{ marginRight: 15 }} />
         Checkout yesterday's commits
       </LoadMore>
     </Container>
