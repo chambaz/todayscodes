@@ -13,6 +13,7 @@
   "dependencies": {
     "@emotion/core": "~10.0.10",
     "@emotion/styled": "~10.0.11",
+    "@fortawesome/fontawesome-free": "~5.8.2",
     "@zeit/next-css": "~1.0.1",
     "diff2html": "~2.9.0",
     "isomorphic-unfetch": "~3.0.0",
