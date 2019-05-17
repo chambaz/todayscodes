@@ -22,6 +22,7 @@ const GitHubButton = styled.button({
   border: 'solid 2px #333',
   borderRadius: 5,
   color: '#fff',
+  cursor: 'pointer',
   fontFamily: 'Menlo',
   fontSize: '16px',
   padding: '15px 20px',
