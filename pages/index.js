@@ -1,6 +1,7 @@
 import styled from '@emotion/styled'
 import Header from '../components/Header'
 import Feed from '../components/Feed'
+import Footer from '../components/Footer'
 
 const App = styled.div({
   boxSizing: 'border-box',
@@ -17,6 +18,7 @@ function Home() {
     <App>
       <Header />
       <Feed />
+      <Footer />
     </App>
   )
 }
