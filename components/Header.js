@@ -29,6 +29,7 @@ const GitHubButton = styled.button({
   cursor: 'pointer',
   fontFamily: 'Menlo',
   fontSize: '16px',
+  marginLeft: 'auto',
   padding: '15px 20px',
   textDecoration: 'none',
   transition: '.3s',
@@ -37,6 +38,12 @@ const GitHubButton = styled.button({
     background: '#fff',
     color: '#333'
   }
+})
+
+const Avatar = styled.img({
+  borderRadius: '100%',
+  marginLeft: 20,
+  width: 75
 })
 
 function Header() {
@@ -78,6 +85,12 @@ function Header() {
     }
   }
 
+  let profileImage = ''
+
+  if (user.email) {
+    profileImage = <Avatar src={user.providerData[0].photoURL} />
+  }
+
   return (
     <Container>
       <LogoContainer>
@@ -89,6 +102,7 @@ function Header() {
         <i className="fab fa-github fa-lg" style={{ marginRight: 15 }} />
         Share your commit
       </GitHubButton>
+      {profileImage}
     </Container>
   )
 }
