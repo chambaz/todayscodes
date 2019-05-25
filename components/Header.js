@@ -81,14 +81,13 @@ function Header() {
           console.log(error)
         })
     } else {
-      alert('Redirect to commit submit page!')
+      window.location = '/submit'
     }
   }
 
   let profileImage = ''
-
-  if (user.email) {
-    profileImage = <Avatar src={user.providerData[0].photoURL} />
+  if (user.photoURL) {
+    profileImage = <Avatar src={user.photoURL} />
   }
 
   return (
