@@ -106,172 +106,172 @@ function Commit() {
 
           <Diff
             dangerouslySetInnerHTML={{
-              __html: `<div><div className="d2h-file-list-wrapper">
-    <div className="d2h-file-list-header">
-        <span className="d2h-file-list-title">Files changed (3)</span>
-        <a className="d2h-file-switch d2h-hide">hide</a>
-        <a className="d2h-file-switch d2h-show">show</a>
+              __html: `<div><div class="d2h-file-list-wrapper">
+    <div class="d2h-file-list-header">
+        <span class="d2h-file-list-title">Files changed (3)</span>
+        <a class="d2h-file-switch d2h-hide">hide</a>
+        <a class="d2h-file-switch d2h-show">show</a>
     </div>
-    <ol className="d2h-file-list">
-    <li className="d2h-file-list-line">
-    <span className="d2h-file-name-wrapper">
-      <svg aria-hidden="true" className="d2h-icon d2h-changed" height="16" title="modified" version="1.1" viewBox="0 0 14 16" width="14">
+    <ol class="d2h-file-list">
+    <li class="d2h-file-list-line">
+    <span class="d2h-file-name-wrapper">
+      <svg aria-hidden="true" class="d2h-icon d2h-changed" height="16" title="modified" version="1.1" viewBox="0 0 14 16" width="14">
           <path d="M13 1H1C0.45 1 0 1.45 0 2v12c0 0.55 0.45 1 1 1h12c0.55 0 1-0.45 1-1V2c0-0.55-0.45-1-1-1z m0 13H1V2h12v12zM4 8c0-1.66 1.34-3 3-3s3 1.34 3 3-1.34 3-3 3-3-1.34-3-3z"></path>
-      </svg>      <a href="#d2h-755258" className="d2h-file-name">components/exit-intent/index.twig</a>
-      <span className="d2h-file-stats">
-          <span className="d2h-lines-added">+4</span>
-          <span className="d2h-lines-deleted">-5</span>
+      </svg>      <a href="#d2h-755258" class="d2h-file-name">components/exit-intent/index.twig</a>
+      <span class="d2h-file-stats">
+          <span class="d2h-lines-added">+4</span>
+          <span class="d2h-lines-deleted">-5</span>
       </span>
     </span>
 </li>
-<li className="d2h-file-list-line">
-    <span className="d2h-file-name-wrapper">
-      <svg aria-hidden="true" className="d2h-icon d2h-changed" height="16" title="modified" version="1.1" viewBox="0 0 14 16" width="14">
+<li class="d2h-file-list-line">
+    <span class="d2h-file-name-wrapper">
+      <svg aria-hidden="true" class="d2h-icon d2h-changed" height="16" title="modified" version="1.1" viewBox="0 0 14 16" width="14">
           <path d="M13 1H1C0.45 1 0 1.45 0 2v12c0 0.55 0.45 1 1 1h12c0.55 0 1-0.45 1-1V2c0-0.55-0.45-1-1-1z m0 13H1V2h12v12zM4 8c0-1.66 1.34-3 3-3s3 1.34 3 3-1.34 3-3 3-3-1.34-3-3z"></path>
-      </svg>      <a href="#d2h-158487" className="d2h-file-name">components/form/styles.css</a>
-      <span className="d2h-file-stats">
-          <span className="d2h-lines-added">+7</span>
-          <span className="d2h-lines-deleted">-0</span>
+      </svg>      <a href="#d2h-158487" class="d2h-file-name">components/form/styles.css</a>
+      <span class="d2h-file-stats">
+          <span class="d2h-lines-added">+7</span>
+          <span class="d2h-lines-deleted">-0</span>
       </span>
     </span>
 </li>
-<li className="d2h-file-list-line">
-    <span className="d2h-file-name-wrapper">
-      <svg aria-hidden="true" className="d2h-icon d2h-changed" height="16" title="modified" version="1.1" viewBox="0 0 14 16" width="14">
+<li class="d2h-file-list-line">
+    <span class="d2h-file-name-wrapper">
+      <svg aria-hidden="true" class="d2h-icon d2h-changed" height="16" title="modified" version="1.1" viewBox="0 0 14 16" width="14">
           <path d="M13 1H1C0.45 1 0 1.45 0 2v12c0 0.55 0.45 1 1 1h12c0.55 0 1-0.45 1-1V2c0-0.55-0.45-1-1-1z m0 13H1V2h12v12zM4 8c0-1.66 1.34-3 3-3s3 1.34 3 3-1.34 3-3 3-3-1.34-3-3z"></path>
-      </svg>      <a href="#d2h-242278" className="d2h-file-name">components/newsletter/index.twig</a>
-      <span className="d2h-file-stats">
-          <span className="d2h-lines-added">+1</span>
-          <span className="d2h-lines-deleted">-1</span>
+      </svg>      <a href="#d2h-242278" class="d2h-file-name">components/newsletter/index.twig</a>
+      <span class="d2h-file-stats">
+          <span class="d2h-lines-added">+1</span>
+          <span class="d2h-lines-deleted">-1</span>
       </span>
     </span>
 </li>
     </ol>
-</div><div className="d2h-wrapper">
-    <div id="d2h-755258" className="d2h-file-wrapper" data-lang="twig">
-    <div className="d2h-file-header">
-      <span className="d2h-file-name-wrapper">
-    <svg aria-hidden="true" className="d2h-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12">
+</div><div class="d2h-wrapper">
+    <div id="d2h-755258" class="d2h-file-wrapper" data-lang="twig">
+    <div class="d2h-file-header">
+      <span class="d2h-file-name-wrapper">
+    <svg aria-hidden="true" class="d2h-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12">
         <path d="M6 5H2v-1h4v1zM2 8h7v-1H2v1z m0 2h7v-1H2v1z m0 2h7v-1H2v1z m10-7.5v9.5c0 0.55-0.45 1-1 1H1c-0.55 0-1-0.45-1-1V2c0-0.55 0.45-1 1-1h7.5l3.5 3.5z m-1 0.5L8 2H1v12h10V5z"></path>
-    </svg>    <span className="d2h-file-name">components/exit-intent/index.twig</span>
-    <span className="d2h-tag d2h-changed d2h-changed-tag">CHANGED</span></span>
+    </svg>    <span class="d2h-file-name">components/exit-intent/index.twig</span>
+    <span class="d2h-tag d2h-changed d2h-changed-tag">CHANGED</span></span>
     </div>
-    <div className="d2h-files-diff">
-        <div className="d2h-file-side-diff">
-            <div className="d2h-code-wrapper">
-                <table className="d2h-diff-table">
-                    <tbody className="d2h-diff-tbody">
+    <div class="d2h-files-diff">
+        <div class="d2h-file-side-diff">
+            <div class="d2h-code-wrapper">
+                <table class="d2h-diff-table">
+                    <tbody class="d2h-diff-tbody">
                     <tr>
-    <td className="d2h-code-side-linenumber d2h-info"></td>
-    <td className="d2h-info">
-        <div className="d2h-code-side-line d2h-info">@@ -21,10 +21,9 @@</div>
+    <td class="d2h-code-side-linenumber d2h-info"></td>
+    <td class="d2h-info">
+        <div class="d2h-code-side-line d2h-info">@@ -21,10 +21,9 @@</div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       21
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">      best in WebAudio straight to your inbox once a month. Only </span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">      best in WebAudio straight to your inbox once a month. Only </span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       22
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">      best-in-class WebAudio, we don't spam!</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">      best-in-class WebAudio, we don't spam!</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       23
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">    &lt;/p&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">    &lt;/p&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-del">
+    <td class="d2h-code-side-linenumber d2h-del">
       24
     </td>
-    <td className="d2h-del">
-        <div className="d2h-code-side-line d2h-del">
-            <span className="d2h-code-line-prefix">-</span>
-            <span className="d2h-code-line-ctn">    &lt;div className="exit-intent__form"&gt;</span>
+    <td class="d2h-del">
+        <div class="d2h-code-side-line d2h-del">
+            <span class="d2h-code-line-prefix">-</span>
+            <span class="d2h-code-line-ctn">    &lt;div class="exit-intent__form"&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-del d2h-change">
+    <td class="d2h-code-side-linenumber d2h-del d2h-change">
       25
     </td>
-    <td className="d2h-del d2h-change">
-        <div className="d2h-code-side-line d2h-del d2h-change">
-            <span className="d2h-code-line-prefix">-</span>
-            <span className="d2h-code-line-ctn"><del>      </del>{% include '_components/newsletter/index.twig' with {</span>
+    <td class="d2h-del d2h-change">
+        <div class="d2h-code-side-line d2h-del d2h-change">
+            <span class="d2h-code-line-prefix">-</span>
+            <span class="d2h-code-line-ctn"><del>      </del>{% include '_components/newsletter/index.twig' with {</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-del d2h-change">
+    <td class="d2h-code-side-linenumber d2h-del d2h-change">
       26
     </td>
-    <td className="d2h-del d2h-change">
-        <div className="d2h-code-side-line d2h-del d2h-change">
-            <span className="d2h-code-line-prefix">-</span>
-            <span className="d2h-code-line-ctn"><del>        </del>inline: true</span>
+    <td class="d2h-del d2h-change">
+        <div class="d2h-code-side-line d2h-del d2h-change">
+            <span class="d2h-code-line-prefix">-</span>
+            <span class="d2h-code-line-ctn"><del>        </del>inline: true</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-del d2h-change">
+    <td class="d2h-code-side-linenumber d2h-del d2h-change">
       27
     </td>
-    <td className="d2h-del d2h-change">
-        <div className="d2h-code-side-line d2h-del d2h-change">
-            <span className="d2h-code-line-prefix">-</span>
-            <span className="d2h-code-line-ctn"><del>      </del>} %}</span>
+    <td class="d2h-del d2h-change">
+        <div class="d2h-code-side-line d2h-del d2h-change">
+            <span class="d2h-code-line-prefix">-</span>
+            <span class="d2h-code-line-ctn"><del>      </del>} %}</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-del">
+    <td class="d2h-code-side-linenumber d2h-del">
       28
     </td>
-    <td className="d2h-del">
-        <div className="d2h-code-side-line d2h-del">
-            <span className="d2h-code-line-prefix">-</span>
-            <span className="d2h-code-line-ctn">    &lt;/div&gt;</span>
+    <td class="d2h-del">
+        <div class="d2h-code-side-line d2h-del">
+            <span class="d2h-code-line-prefix">-</span>
+            <span class="d2h-code-line-ctn">    &lt;/div&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       29
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">  &lt;/div&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">  &lt;/div&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       30
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">&lt;/div&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">&lt;/div&gt;</span>
         </div>
     </td>
 </tr>
@@ -279,119 +279,119 @@ function Commit() {
                 </table>
             </div>
         </div>
-        <div className="d2h-file-side-diff">
-            <div className="d2h-code-wrapper">
-                <table className="d2h-diff-table">
-                    <tbody className="d2h-diff-tbody">
+        <div class="d2h-file-side-diff">
+            <div class="d2h-code-wrapper">
+                <table class="d2h-diff-table">
+                    <tbody class="d2h-diff-tbody">
                     <tr>
-    <td className="d2h-code-side-linenumber d2h-info"></td>
-    <td className="d2h-info">
-        <div className="d2h-code-side-line d2h-info"></div>
+    <td class="d2h-code-side-linenumber d2h-info"></td>
+    <td class="d2h-info">
+        <div class="d2h-code-side-line d2h-info"></div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       21
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">      best in WebAudio straight to your inbox once a month. Only </span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">      best in WebAudio straight to your inbox once a month. Only </span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       22
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">      best-in-class WebAudio, we don't spam!</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">      best-in-class WebAudio, we don't spam!</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       23
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">    &lt;/p&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">    &lt;/p&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins d2h-change">
+    <td class="d2h-code-side-linenumber d2h-ins d2h-change">
       24
     </td>
-    <td className="d2h-ins d2h-change">
-        <div className="d2h-code-side-line d2h-ins d2h-change">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn"><ins>    </ins>{% include '_components/newsletter/index.twig' with {</span>
+    <td class="d2h-ins d2h-change">
+        <div class="d2h-code-side-line d2h-ins d2h-change">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn"><ins>    </ins>{% include '_components/newsletter/index.twig' with {</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins d2h-change">
+    <td class="d2h-code-side-linenumber d2h-ins d2h-change">
       25
     </td>
-    <td className="d2h-ins d2h-change">
-        <div className="d2h-code-side-line d2h-ins d2h-change">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn"><ins>      </ins>inline: true<ins>,</ins></span>
+    <td class="d2h-ins d2h-change">
+        <div class="d2h-code-side-line d2h-ins d2h-change">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn"><ins>      </ins>inline: true<ins>,</ins></span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins">
+    <td class="d2h-code-side-linenumber d2h-ins">
       26
     </td>
-    <td className="d2h-ins">
-        <div className="d2h-code-side-line d2h-ins">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn">      center: true</span>
+    <td class="d2h-ins">
+        <div class="d2h-code-side-line d2h-ins">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn">      center: true</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins d2h-change">
+    <td class="d2h-code-side-linenumber d2h-ins d2h-change">
       27
     </td>
-    <td className="d2h-ins d2h-change">
-        <div className="d2h-code-side-line d2h-ins d2h-change">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn"><ins>    </ins>} %}</span>
+    <td class="d2h-ins d2h-change">
+        <div class="d2h-code-side-line d2h-ins d2h-change">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn"><ins>    </ins>} %}</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       28
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">  &lt;/div&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">  &lt;/div&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       29
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">&lt;/div&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">&lt;/div&gt;</span>
         </div>
     </td>
 </tr>
@@ -401,108 +401,108 @@ function Commit() {
         </div>
     </div>
 </div>
-<div id="d2h-158487" className="d2h-file-wrapper" data-lang="css">
-    <div className="d2h-file-header">
-      <span className="d2h-file-name-wrapper">
-    <svg aria-hidden="true" className="d2h-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12">
+<div id="d2h-158487" class="d2h-file-wrapper" data-lang="css">
+    <div class="d2h-file-header">
+      <span class="d2h-file-name-wrapper">
+    <svg aria-hidden="true" class="d2h-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12">
         <path d="M6 5H2v-1h4v1zM2 8h7v-1H2v1z m0 2h7v-1H2v1z m0 2h7v-1H2v1z m10-7.5v9.5c0 0.55-0.45 1-1 1H1c-0.55 0-1-0.45-1-1V2c0-0.55 0.45-1 1-1h7.5l3.5 3.5z m-1 0.5L8 2H1v12h10V5z"></path>
-    </svg>    <span className="d2h-file-name">components/form/styles.css</span>
-    <span className="d2h-tag d2h-changed d2h-changed-tag">CHANGED</span></span>
+    </svg>    <span class="d2h-file-name">components/form/styles.css</span>
+    <span class="d2h-tag d2h-changed d2h-changed-tag">CHANGED</span></span>
     </div>
-    <div className="d2h-files-diff">
-        <div className="d2h-file-side-diff">
-            <div className="d2h-code-wrapper">
-                <table className="d2h-diff-table">
-                    <tbody className="d2h-diff-tbody">
+    <div class="d2h-files-diff">
+        <div class="d2h-file-side-diff">
+            <div class="d2h-code-wrapper">
+                <table class="d2h-diff-table">
+                    <tbody class="d2h-diff-tbody">
                     <tr>
-    <td className="d2h-code-side-linenumber d2h-info"></td>
-    <td className="d2h-info">
-        <div className="d2h-code-side-line d2h-info">@@ -43,3 +43,10 @@</div>
+    <td class="d2h-code-side-linenumber d2h-info"></td>
+    <td class="d2h-info">
+        <div class="d2h-code-side-line d2h-info">@@ -43,3 +43,10 @@</div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       43
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">    background: var(--blue);</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">    background: var(--blue);</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       44
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">  }</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">  }</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       45
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">}</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">}</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-code-side-linenumber d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
       
     </td>
-    <td className="d2h-cntx d2h-emptyplaceholder">
-        <div className="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
+    <td class="d2h-cntx d2h-emptyplaceholder">
+        <div class="d2h-code-side-line d2h-code-side-emptyplaceholder d2h-cntx d2h-emptyplaceholder">
         </div>
     </td>
 </tr>
@@ -510,112 +510,112 @@ function Commit() {
                 </table>
             </div>
         </div>
-        <div className="d2h-file-side-diff">
-            <div className="d2h-code-wrapper">
-                <table className="d2h-diff-table">
-                    <tbody className="d2h-diff-tbody">
+        <div class="d2h-file-side-diff">
+            <div class="d2h-code-wrapper">
+                <table class="d2h-diff-table">
+                    <tbody class="d2h-diff-tbody">
                     <tr>
-    <td className="d2h-code-side-linenumber d2h-info"></td>
-    <td className="d2h-info">
-        <div className="d2h-code-side-line d2h-info"></div>
+    <td class="d2h-code-side-linenumber d2h-info"></td>
+    <td class="d2h-info">
+        <div class="d2h-code-side-line d2h-info"></div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       43
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">    background: var(--blue);</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">    background: var(--blue);</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       44
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">  }</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">  }</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       45
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">}</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">}</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins">
+    <td class="d2h-code-side-linenumber d2h-ins">
       46
     </td>
-    <td className="d2h-ins">
-        <div className="d2h-code-side-line d2h-ins">
-            <span className="d2h-code-line-prefix">+</span>
+    <td class="d2h-ins">
+        <div class="d2h-code-side-line d2h-ins">
+            <span class="d2h-code-line-prefix">+</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins">
+    <td class="d2h-code-side-linenumber d2h-ins">
       47
     </td>
-    <td className="d2h-ins">
-        <div className="d2h-code-side-line d2h-ins">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn">.form--center {</span>
+    <td class="d2h-ins">
+        <div class="d2h-code-side-line d2h-ins">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn">.form--center {</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins">
+    <td class="d2h-code-side-linenumber d2h-ins">
       48
     </td>
-    <td className="d2h-ins">
-        <div className="d2h-code-side-line d2h-ins">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn">  display: flex;</span>
+    <td class="d2h-ins">
+        <div class="d2h-code-side-line d2h-ins">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn">  display: flex;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins">
+    <td class="d2h-code-side-linenumber d2h-ins">
       49
     </td>
-    <td className="d2h-ins">
-        <div className="d2h-code-side-line d2h-ins">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn">  justify-content: center;</span>
+    <td class="d2h-ins">
+        <div class="d2h-code-side-line d2h-ins">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn">  justify-content: center;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins">
+    <td class="d2h-code-side-linenumber d2h-ins">
       50
     </td>
-    <td className="d2h-ins">
-        <div className="d2h-code-side-line d2h-ins">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn">  margin: 40px auto 0;</span>
+    <td class="d2h-ins">
+        <div class="d2h-code-side-line d2h-ins">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn">  margin: 40px auto 0;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins">
+    <td class="d2h-code-side-linenumber d2h-ins">
       51
     </td>
-    <td className="d2h-ins">
-        <div className="d2h-code-side-line d2h-ins">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn">  text-align: center;</span>
+    <td class="d2h-ins">
+        <div class="d2h-code-side-line d2h-ins">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn">  text-align: center;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins">
+    <td class="d2h-code-side-linenumber d2h-ins">
       52
     </td>
-    <td className="d2h-ins">
-        <div className="d2h-code-side-line d2h-ins">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn">}</span>
+    <td class="d2h-ins">
+        <div class="d2h-code-side-line d2h-ins">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn">}</span>
         </div>
     </td>
 </tr>
@@ -625,62 +625,62 @@ function Commit() {
         </div>
     </div>
 </div>
-<div id="d2h-242278" className="d2h-file-wrapper" data-lang="twig">
-    <div className="d2h-file-header">
-      <span className="d2h-file-name-wrapper">
-    <svg aria-hidden="true" className="d2h-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12">
+<div id="d2h-242278" class="d2h-file-wrapper" data-lang="twig">
+    <div class="d2h-file-header">
+      <span class="d2h-file-name-wrapper">
+    <svg aria-hidden="true" class="d2h-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12">
         <path d="M6 5H2v-1h4v1zM2 8h7v-1H2v1z m0 2h7v-1H2v1z m0 2h7v-1H2v1z m10-7.5v9.5c0 0.55-0.45 1-1 1H1c-0.55 0-1-0.45-1-1V2c0-0.55 0.45-1 1-1h7.5l3.5 3.5z m-1 0.5L8 2H1v12h10V5z"></path>
-    </svg>    <span className="d2h-file-name">components/newsletter/index.twig</span>
-    <span className="d2h-tag d2h-changed d2h-changed-tag">CHANGED</span></span>
+    </svg>    <span class="d2h-file-name">components/newsletter/index.twig</span>
+    <span class="d2h-tag d2h-changed d2h-changed-tag">CHANGED</span></span>
     </div>
-    <div className="d2h-files-diff">
-        <div className="d2h-file-side-diff">
-            <div className="d2h-code-wrapper">
-                <table className="d2h-diff-table">
-                    <tbody className="d2h-diff-tbody">
+    <div class="d2h-files-diff">
+        <div class="d2h-file-side-diff">
+            <div class="d2h-code-wrapper">
+                <table class="d2h-diff-table">
+                    <tbody class="d2h-diff-tbody">
                     <tr>
-    <td className="d2h-code-side-linenumber d2h-info"></td>
-    <td className="d2h-info">
-        <div className="d2h-code-side-line d2h-info">@@ -1,4 +1,4 @@</div>
+    <td class="d2h-code-side-linenumber d2h-info"></td>
+    <td class="d2h-info">
+        <div class="d2h-code-side-line d2h-info">@@ -1,4 +1,4 @@</div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-del d2h-change">
+    <td class="d2h-code-side-linenumber d2h-del d2h-change">
       1
     </td>
-    <td className="d2h-del d2h-change">
-        <div className="d2h-code-side-line d2h-del d2h-change">
-            <span className="d2h-code-line-prefix">-</span>
-            <span className="d2h-code-line-ctn">&lt;form className="form {% if inline %}form--inline{% endif %}" data-newsletter&gt;</span>
+    <td class="d2h-del d2h-change">
+        <div class="d2h-code-side-line d2h-del d2h-change">
+            <span class="d2h-code-line-prefix">-</span>
+            <span class="d2h-code-line-ctn">&lt;form class="form {% if inline %}form--inline{% endif %}" data-newsletter&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       2
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">  &lt;div className="input" data-input&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">  &lt;div class="input" data-input&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       3
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">    &lt;label className="input__label" for="email"&gt;Your Email&lt;/label&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">    &lt;label class="input__label" for="email"&gt;Your Email&lt;/label&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       4
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">    &lt;input className="input__field" data-input-field data-email required id="email" type="email" name="EMAIL"&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">    &lt;input class="input__field" data-input-field data-email required id="email" type="email" name="EMAIL"&gt;</span>
         </div>
     </td>
 </tr>
@@ -688,53 +688,53 @@ function Commit() {
                 </table>
             </div>
         </div>
-        <div className="d2h-file-side-diff">
-            <div className="d2h-code-wrapper">
-                <table className="d2h-diff-table">
-                    <tbody className="d2h-diff-tbody">
+        <div class="d2h-file-side-diff">
+            <div class="d2h-code-wrapper">
+                <table class="d2h-diff-table">
+                    <tbody class="d2h-diff-tbody">
                     <tr>
-    <td className="d2h-code-side-linenumber d2h-info"></td>
-    <td className="d2h-info">
-        <div className="d2h-code-side-line d2h-info"></div>
+    <td class="d2h-code-side-linenumber d2h-info"></td>
+    <td class="d2h-info">
+        <div class="d2h-code-side-line d2h-info"></div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-ins d2h-change">
+    <td class="d2h-code-side-linenumber d2h-ins d2h-change">
       1
     </td>
-    <td className="d2h-ins d2h-change">
-        <div className="d2h-code-side-line d2h-ins d2h-change">
-            <span className="d2h-code-line-prefix">+</span>
-            <span className="d2h-code-line-ctn">&lt;form className="form {% if inline %}form--inline{% endif %}<ins> {% if center %}form--center{% endif %}</ins>" data-newsletter&gt;</span>
+    <td class="d2h-ins d2h-change">
+        <div class="d2h-code-side-line d2h-ins d2h-change">
+            <span class="d2h-code-line-prefix">+</span>
+            <span class="d2h-code-line-ctn">&lt;form class="form {% if inline %}form--inline{% endif %}<ins> {% if center %}form--center{% endif %}</ins>" data-newsletter&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       2
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">  &lt;div className="input" data-input&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">  &lt;div class="input" data-input&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       3
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">    &lt;label className="input__label" for="email"&gt;Your Email&lt;/label&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">    &lt;label class="input__label" for="email"&gt;Your Email&lt;/label&gt;</span>
         </div>
     </td>
 </tr><tr>
-    <td className="d2h-code-side-linenumber d2h-cntx">
+    <td class="d2h-code-side-linenumber d2h-cntx">
       4
     </td>
-    <td className="d2h-cntx">
-        <div className="d2h-code-side-line d2h-cntx">
-            <span className="d2h-code-line-prefix"> </span>
-            <span className="d2h-code-line-ctn">    &lt;input className="input__field" data-input-field data-email required id="email" type="email" name="EMAIL"&gt;</span>
+    <td class="d2h-cntx">
+        <div class="d2h-code-side-line d2h-cntx">
+            <span class="d2h-code-line-prefix"> </span>
+            <span class="d2h-code-line-ctn">    &lt;input class="input__field" data-input-field data-email required id="email" type="email" name="EMAIL"&gt;</span>
         </div>
     </td>
 </tr>
